@@ -7,7 +7,7 @@ The fine-tuned models can also be found on Hugging Face. The links can be found 
 - [Fine-tuned BERTje (HF)](https://huggingface.co/HylkeBr/bertje_dutch-cola)
 - [Fine-tuned RobBERT (HF)](https://huggingface.co/HylkeBr/robbert_dutch-cola)
 
-<br />
+<br /> <br />
 
 Hylke Hessel Brouwer
 
